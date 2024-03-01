@@ -1,28 +1,9 @@
 # SantagostinoIOT
-AltAir Sensor Start Up
+AltAirX Sensor Start Up
 
-Passo 1: Questo kit di beta test è destinato ai partner e agli amici per raccogliere feedback preziosi.
+1.Product Description
 
-Passo 2: La scheda AltAir ti permette di misurare la CO2, la temperatura, l'umidità relativa e l'illuminamento.
+AltAir is an IoT sensor characterized by a PCB board containing CO2, temperature, relative humidity, and illumination sensors. The board has a microcontroller that features Wi-Fi and BLE connectivity and is powered via a USB type C port or a single-cell Li-Po battery. AltAir is equipped with two unused but available I2C ports for potential expansions, which are not exposed outside of the case. The case consists of a main structure, a sliding structure that acts as a closure, and two buttons, RESET and BOOT.
 
-Passo 3: La scheda è alimentata da una batteria Li-Po ricaricabile tramite cavo USB C e un caricatore per smartphone. Una carica completa richiede 4 ore e consente alla scheda di funzionare per 8 mesi.
 
-Passo 4: La scheda AltAir registra un dato ogni 10 minuti e passa in modalità "energy saving" se rileva luce spenta e CO2 bassa campionando così ogni 30 minuti, non sprechiamo energia se la stanza è vuota e spenta!!
-
-Passo 5: Per iniziare la configurazione, premi il tasto di destra (RESET) una sola volta.
-
-Passo 6: Mantieni premuto il tasto sinistro (BOOT) finché il LED sulla scheda AltAir non si illumina di verde.
-
-Passo 7: Dopo che il LED si è acceso di verde e poi spento, attendi circa 60 secondi.
-
-Passo 8: Ora, sul tuo smartphone o PC, cerca la rete Wi-Fi chiamata "AutoConnect". La scheda AltAir crea questa rete Wi-Fi temporanea per consentire la configurazione.
-
-Passo 9: Connettiti alla rete Wi-Fi "AutoConnect".
-
-Passo 10: Sul tuo dispositivo apparirà una schermata in cui potrai selezionare la rete Wi-Fi alla quale desideri collegare la scheda. Seleziona la tua rete Wi-Fi e inserisci la password.
-
-Passo 11: Dopo aver inserito il Wi-Fi e il codice Datacake, fai clic su "Salva" per confermare le tue impostazioni.
-
-Passo 12: La scheda AltAir eseguirà un riavvio. Inizierai a visualizzare i dati sulla piattaforma Datacake. Puoi accedere ai dati semplicemente scannerando il QR code associato alla scheda AltAir.
-
-Ora hai completato con successo la configurazione della scheda AltAir e sei pronto per monitorare i dati tramite la piattaforma Datacake. Grazie per la tua collaborazione nel beta test!
+<img width="561" alt="Screenshot 2024-03-01 alle 17 14 22" src="https://github.com/CDNNDR/SantagostinoIOT/assets/95143041/1708991d-fdb9-4ffc-bbe6-fc784bb56f5e">
